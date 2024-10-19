@@ -16,7 +16,7 @@ Hello, data enthusiasts! 🎉 Ever found yourself wanting to seamlessly connect 
 
 ### Step 1: Setting Up Your PostgreSQL Database on [Neon.tech](http://Neon.tech)
 
-[To keep](https://neon.tech/) things simple, we’ll use [Neon.tech](http://Neon.tech) to set up our [PostgreS](https://neon.tech/)QL database. If you’re new to [Neon.tech](http://Neon.tech), don’t worry! It’s super easy and user-friendly.
+To keep things simple, we’ll use [Neon.tech](http://Neon.tech) to set up our PostgreSQL database. If you’re new to [Neon.tech](http://Neon.tech), don’t worry! It’s super easy and user-friendly.
 
 1. **Create a New Project:**
     
@@ -26,7 +26,7 @@ Hello, data enthusiasts! 🎉 Ever found yourself wanting to seamlessly connect 
         
         ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1729344782821/59a5d71c-6a5f-41db-996c-14536dfb8e02.png align="left")
         
-    * Write a name for your project, pick the PostgreSQL version, and [](https://neon.tech/)select your preferred cloud provider and region. For this demo, the default settings will do just fine.
+    * Write a name for your project, pick the PostgreSQL version, and select your preferred cloud provider and region. For this demo, the default settings will do just fine.
         
         ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1729344999540/195da5e0-f16b-4a12-a6df-6d602665eaa8.png align="left")
         
@@ -147,7 +147,7 @@ Hello, data enthusiasts! 🎉 Ever found yourself wanting to seamlessly connect 
     
     ### Conclusion:
     
-    And there you have it! 🎉 You’ve successfully connected your PostgreSQL database to Power BI using an ODBC driver. This setup allows you to tap into your PostgreSQL data, creating stunning, data-driven insights with just a few clicks. So go ahead, explore your data, and make the most of Power BI’s powerful visualization tools!  
+    And there you have it! 🎉 You’ve successfully connected your PostgreSQL database to Power BI using an ODBC driver. This setup allows you to tap into your PostgreSQL data, creating stunning, data-driven insights with just a few clicks. So go ahead, explore your data, and make the most of Power BI’s powerful visualization tools!
     
     Got stuck somewhere? Or maybe you found a cool trick while following along? Drop your comments below, and let’s chat. Happy visualizing! 📊✨
     
