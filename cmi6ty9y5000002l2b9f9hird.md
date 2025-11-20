@@ -4,7 +4,6 @@ datePublished: Thu Nov 20 2025 02:46:37 GMT+0000 (Coordinated Universal Time)
 cuid: cmi6ty9y5000002l2b9f9hird
 slug: 5-common-devops-mistakes-startups-make-and-how-to-avoid-them
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1763606528394/14b33a09-68ba-46ea-83e6-3cba95051961.png
-tags: blogging, startup, devops, trending, mistakes-to-avoid
 
 ---
 
